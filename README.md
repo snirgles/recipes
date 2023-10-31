@@ -1,0 +1,1 @@
+This project is to show what I can do with HTML! I've opened a repo on git, created directories/files with my local terminal, and connected it to VS code.
